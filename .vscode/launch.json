@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:3000",
+            "request": "launch",
+            "url": "http://localhost:3000",
+            "runtimeExecutable": "/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome",
+            // "runtimeExecutable": "/Applications/Google Chrome 2.app/Contents/MacOS"
+        }
+    ]
+}

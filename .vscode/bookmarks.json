@@ -1,0 +1,109 @@
+{
+	"files": [
+		{
+			"path": "src/react-16.13.1/packages/react-reconciler/src/ReactFiberReconciler.js",
+			"bookmarks": [
+				{
+					"line": 227,
+					"column": 32,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/react-16.13.1/packages/react-dom/src/client/ReactDOMLegacy.js",
+			"bookmarks": [
+				{
+					"line": 174,
+					"column": 42,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/react-16.13.1/packages/react-reconciler/src/ReactFiberWorkLoop.js",
+			"bookmarks": [
+				{
+					"line": 378,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 565,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 647,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 994,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 1073,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 1472,
+					"column": 25,
+					"label": ""
+				},
+				{
+					"line": 1481,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 1729,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 1841,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 1872,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 1912,
+					"column": 29,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/react-16.13.1/packages/react-reconciler/src/ReactFiberCommitWork.js",
+			"bookmarks": [
+				{
+					"line": 355,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 458,
+					"column": 26,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "src/react-16.13.1/packages/scheduler/src/forks/SchedulerHostConfig.default.js",
+			"bookmarks": [
+				{
+					"line": 226,
+					"column": 53,
+					"label": ""
+				}
+			]
+		}
+	]
+}
